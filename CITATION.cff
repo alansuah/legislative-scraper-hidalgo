@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "Legislative Scraper Hidalgo"
+message: >
+  If you use this software in your research, please cite it using
+  the metadata from this file.
+type: software
+
+authors:
+  - family-names: "Islas Ruiz"
+    given-names: "Alan Suah"
+    orcid: "https://orcid.org/0000-0002-0299-4673"
+
+abstract: >
+  Legislative Scraper Hidalgo is an open-source workflow for extracting,
+  organizing, and analyzing legislative activity data from the Congress
+  of the State of Hidalgo (Mexico). The repository contains reproducible
+  R scripts for data collection, preprocessing, and productivity analysis
+  of legislative interventions.
+
+keywords:
+  - legislative studies
+  - web scraping
+  - R
+  - legislature
+  - Hidalgo
+  - Mexico
+  - political science
+  - open science
+  - reproducible research
+
+license: MIT
+
+repository-code: "https://github.com/alansuah/legislative-scraper-hidalgo"
+
+url: "https://github.com/alansuah/legislative-scraper-hidalgo"
+
+version: "1.0.0"
+
+date-released: "2026-07-29"
